@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack Pro - Enterprise Billing",
+  "description": "Enterprise invoice management, billing analytics, client directory, and custom invoice template designer with responsive Material UI styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
